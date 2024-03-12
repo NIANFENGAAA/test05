@@ -7,5 +7,7 @@ public class Hello {
         System.out.println("333");
         System.out.println("合并");
         System.out.println("push test!!!");
+        System.out.println("push test!!!");
+        System.out.println("push test!!!");
     }
 }
